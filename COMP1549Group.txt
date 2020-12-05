@@ -1,0 +1,2 @@
+	The console based application, sets up a network where multiple users can communicate via a messaging application without disruption of a central server failing and therefore stopping the communication amongst the other notes.
+	User is assigned a unique ID number upon connection. To connect to other users their unique ID and port have to be used.

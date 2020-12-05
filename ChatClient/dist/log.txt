@@ -1,0 +1,35 @@
+
+-------------------------------Session Time: 16:34:19-------------------------------
+------------TO CONNECT-------------
+Enter Hostname
+localhost
+Enter Port
+4444
+Connected
+Enter User ID: 
+
+No other users connected
+AUser619
+-------------------------------Session Time: 16:34:54-------------------------------
+------------TO CONNECT-------------
+Enter Hostname
+localhost
+Enter Port
+4444
+Connected
+
+Connected users: [AUser619]
+Enter User ID: 
+Buser716
+
+New user connected: Buser716
+16:35:07 [AUser619]: 
+
+16:35:15 [AUser619]: hello from A User
+16:35:15 [Buser716]: 
+
+16:35:21 [Buser716]: Hello from B User
+16:35:21 [AUser619]: 
+
+16:35:25 [Buser716]: null
+16:35:25 [AUser619]: 

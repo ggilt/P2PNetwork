@@ -1,0 +1,24 @@
+
+Enter Port: 
+4444
+Chat Server is listening on port 4444
+Please do not close this window
+Please return to previous window
+New user connected
+No other users connected
+AUser619
+Enter Port: 
+New user connected
+Connected users:[AUser619]
+Buser716
+New user connected: Buser716
+16:35:15 [AUser619]: hello from A User
+16:35:15 [AUser619]: hello from A User
+16:35:21 [Buser716]: Hello from B User
+16:35:21 [Buser716]: Hello from B User
+16:35:25 [Buser716]: null
+16:35:25 [Buser716]: null
+Error in UserThread: Connection reset
+16:35:27 [AUser619]: null
+16:35:27 [AUser619]: null
+Error in UserThread: Connection reset
